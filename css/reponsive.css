@@ -1,0 +1,17 @@
+
+@media all and (max-width: 992px) {
+    #about figure img {
+        height: auto;
+        width: 100%;
+    }
+    
+    #main-header .main-header-content h1 {
+        font-size: 3em;
+    }
+}
+
+@media all and (max-width: 768px) {
+    #main-header .main-header-content h1 {
+        font-size: 2em;
+    }
+}
